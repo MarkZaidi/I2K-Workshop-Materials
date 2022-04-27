@@ -15,7 +15,7 @@ This workshop was designed for inviduals with an intermediate level of experienc
 ## Citing
 Please cite this repository:
 ```
-Zaidi M., Lombard P., McKee T., Wouters B. (2022). I2K-Workshop-Materials (version 1.0.0). DOI: https://github.com/MarkZaidi/I2K-Workshop-Materials/
+Zaidi M., Lombard P., McKee T., Wouters B. (2022). End-to-End Analysis of Imaging Mass Cytometry Data to Study Heterogeneity in the Tumor Microenvironment (version 1.0.0). DOI: https://github.com/MarkZaidi/I2K-Workshop-Materials/. From Images to Knowledge 2022 Conference, May 10, 2022.
 ```
 If using StarDist segmentation:
 ```
